@@ -1,3 +1,3 @@
-module github.com/lynch9983/jnu.pay.check
+module github.com/lynch9983/baidubce.api.go
 
 go 1.13
